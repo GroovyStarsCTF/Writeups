@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [\[2021\] 👌👌🙏💯](2021.md)
+* [\[2020\] Corona Time](2020-corona-time.md)
+* [\[2021\] Just Web Things 1](2021-just-web-things-1.md)
+* [\[2019\] XTRANote](2019-xtranote.md)
+* [\[2018\] Feed the Bug](2018-feed-the-bug.md)
+* [\[2018\] Very Secret](2018-very-secret.md)
+* [\[2019\] Call from mick](2019-call-from-mick.md)
+* [\[2020\] Android Backup](2020-android-backup.md)
+* [\[2021\] Flags 1 - Basic](2021-flags-1-basic.md)
+* [\[2021\] Flags 2 - Intermediate](2021-flags-2-intermediate.md)
+* [\[2021\] New Game!](2021-new-game.md)
+* [\[2021\] Obfuskierung Oida](2021-obfuskierung-oida.md)
+* [\[2021\] The Room](2021-the-room.md)
